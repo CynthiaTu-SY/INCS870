@@ -1,0 +1,6 @@
+projectKey=INCS870_RideBroad
+serverUrl=http://localhost:9000
+serverVersion=9.4.0.54424
+dashboardUrl=http://localhost:9000/dashboard?id=INCS870_RideBroad
+ceTaskId=AYBAU8Ou3VOf_tLvfLm0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYBAU8Ou3VOf_tLvfLm0
